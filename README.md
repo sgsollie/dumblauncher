@@ -2,6 +2,10 @@
 
 This is a very dumb, minimalist iOS launcher written in swift.
 
+<div align="center">
+  <img src="img/dumblaunchv0.png" alt="running on iOS 18" width="400">
+</div>
+
 ## Features
 
 - msg *opens whatsapp*
