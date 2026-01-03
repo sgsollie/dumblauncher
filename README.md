@@ -14,6 +14,8 @@ This is a very dumb, minimalist iOS launcher written in swift.
 - settings *opens settings*
 - camera *opens camera*
 
+Each button also has a subtle animation on press.
+
 ### Notes
 
 - The app definitions are currently hardcoded for my personal use.
