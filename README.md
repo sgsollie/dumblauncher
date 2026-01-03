@@ -2,7 +2,7 @@
 
 This is a very dumb, minimalist iOS launcher written in swift.
 
-## Features
+## Features
 
 - msg *opens whatsapp*
 - tunes *opens spotify*
@@ -17,7 +17,7 @@ This is a very dumb, minimalist iOS launcher written in swift.
 - Since you can't change springboot's behaviour without jailbreaking, you have to launch the launcher manually first (currently it is the only app on my home screen)
 - This was just for me to learn a bit of swift.
 
-### Todo
+### Todo
 
 - Add configurable launcher items
 - Add large widget for launching the launcher
